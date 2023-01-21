@@ -1,3 +1,3 @@
 # Test merge
 
-print("Merge success")
+print("Merge file success")
